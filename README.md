@@ -5,4 +5,4 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I love playing video game and watching movies in my free time.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
-![My Image](me.jpg)
+![My Image](me.png)
